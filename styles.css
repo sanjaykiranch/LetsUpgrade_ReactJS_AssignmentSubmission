@@ -1,0 +1,17 @@
+body{
+    background-color: #f5f5a7;
+}
+h1{
+    background-color:rgb(250, 56, 21);
+    text-align: center;
+    padding: 10px;
+}
+.button{
+    height: 40px;
+    width: 100px;
+    background-color: rgb(250, 56, 21);
+    margin: 5px;
+}
+.button:hover{
+    background-color: rgb(245, 204, 197);
+}
